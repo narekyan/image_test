@@ -1,7 +1,7 @@
 # image_test
 
-Hello, run please 
+Hello, run please , I tested on ios simulator
 
-npm install \
-npx pod-install ios \
+npm install \n
+npx pod-install ios \n
 npx react-native run-ios
