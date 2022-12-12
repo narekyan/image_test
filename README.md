@@ -2,6 +2,6 @@
 
 Hello, run please 
 
-npm install \n
-npx pod-install ios \n
+npm install \
+npx pod-install ios \
 npx react-native run-ios
